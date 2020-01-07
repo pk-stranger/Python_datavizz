@@ -39,7 +39,7 @@
 ![test git](q9.jpg)
 คลิกอันเเรก
 
-![test git](.10.jpg)
+![test git](https://github.com/pk-stranger/Python_datavizz/blob/master/.10.JPG?raw=true)
 จากนั้นทำการ sign in ด้วย email
 
 ![test git](.11.jpg)
